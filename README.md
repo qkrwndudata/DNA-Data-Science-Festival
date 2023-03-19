@@ -6,6 +6,7 @@ Proposal of Optimal Elderly Welfare Housing Location Selection Methodology in Se
 - **팀원** **:** 박주영, 구민주, 김유경, 박상준, 이두형
 - **수상** **:** 우수상
     
+---
     
     
 ### [TEAM 실버 팰리스의 분석]
