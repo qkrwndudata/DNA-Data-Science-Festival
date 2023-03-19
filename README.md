@@ -23,5 +23,7 @@ Proposal of Optimal Elderly Welfare Housing Location Selection Methodology in Se
   3) QGIS 기반 경사분석
 
 - 인사이트 및 제안: LH 공공임대주택 중 Cover"Age" 지수 기반 가장 노인친화적인 공공주택 입지 제안
+![image](https://user-images.githubusercontent.com/79184083/226181087-39665029-ee4f-40fe-b5e9-98fbad3da76a.png)
+
   1) 실제 데이터 기반 객관적이고 현실적인 기준 제시
   2) 확장 가능성을 토대로 더 넓은 분야로 확대 분석 가능
